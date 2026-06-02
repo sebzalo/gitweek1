@@ -1,8 +1,21 @@
 body {
-  background-color: aquamarine;
+  background-color: rgb(214, 57, 250);
 }
 
 img {
-  width: auto;
+  width: 400px;
   height: auto;
+  margin-left: 500px;
+  border-style: groove;
+  border: 400%;
+  border-color: black;
+  border-radius: 50px;
+}
+
+h1 {
+  margin-left: 650px;
+}
+
+p {
+  margin-left: 670px;
 }
